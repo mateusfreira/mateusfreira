@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi
+
+I’m currently working as Lead Software engineer at @RadicalImaging 
+
+Here I share some of my ideas and projects.
+
+Currently learning rust as a system programming language and Elm as an alternative for building web Uis and creating the https://github.com/mateusfreira/nun-db just for fun
 
 <!--
 **mateusfreira/mateusfreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
