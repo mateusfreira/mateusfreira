@@ -1,10 +1,10 @@
 ### Hi
 
-I’m currently working as Lead Software engineer at @RadicalImaging 
+I’m currently working as a Lead Software engineer at @RadicalImaging 
 
 Here I share some of my ideas and projects.
 
-Currently learning rust as a system programming language and creating the https://github.com/mateusfreira/nun-db for fun
+I am currently learning rust as a system programming language and creating a database with it https://github.com/mateusfreira/nun-db to make the web in real-time easier for open-source lovers.
 
 <!--
 **mateusfreira/mateusfreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
