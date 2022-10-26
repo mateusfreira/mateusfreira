@@ -1,6 +1,6 @@
 ### Hi
 
-I’m currently working as a Lead Software engineer at @RadicalImaging 
+I’m currently working as a Principal Software Engineer at @RadicalImaging 
 
 Here I share some of my ideas and projects.
 
